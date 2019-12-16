@@ -1,0 +1,143 @@
+@media (max-width: 1200px) and (min-width: 992px) {
+    #fp-nav.fp-right{ right: 0; }
+    .logo_header { width: 90px; }
+    .logo_text { width: 160px; }
+    .menu ul { margin-top: 8px; font-size: 13px; }
+    .logo_header{ width: 90px; }
+    .logo_text{ width: 165px; }
+    .main_headline { font-size: 65px; }
+    .group_btn { width: 350px; }
+    .scroll_icon{ width: 70px; }
+    .title_slide { font-size: 30px !important; }
+    #section-2 .title_slide { margin: 55px auto 5px !important; line-height: 1.1 !important; }
+    .videoItem iframe { height: 320px; }
+    .itemFeature img { width: 240px !important; }
+    #section-3 .slick-prev { top: 130px !important; }
+    #section-3 .slick-next { top: 185px !important; }
+    #section-4 .title_slide { margin-top: 0 !important; }
+    .itemImg img { width: 180px !important; }
+    .itemImg span { font-size: 14px !important; }
+    #twoImg { bottom: -20px; }
+    #fourImg { bottom: 2px; }
+    .slier_promo{ width: 85%; }
+    .itemPromo{ height: 340px; }
+    .itemPromo h2{ font-size: 50px !important; }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+    #fp-nav.fp-right{ right: 0; }
+    .menu ul { margin-top: 7px !important; font-size: 13px; }
+    .logo_header{ width: 90px; }
+    .logo_text{ width: 165px; }
+    .main_headline { font-size: 60px; }
+    .group_btn { width: 350px; }
+    .scroll_icon{ width: 70px; }
+    .title_slide { font-size: 26px !important; }
+    #section-2 .title_slide { margin: 55px auto 5px !important; line-height: 1.1 !important; }
+    .videoItem iframe { height: 300px; }
+    .itemFeature img { width: 210px !important; }
+    #section-3 .slick-prev { top: 120px !important; }
+    #section-3 .slick-next { top: 175px !important; }
+    #section-4 .title_slide { margin-top: 0 !important; }
+    .itemImg img { width: 180px !important; }
+    .itemImg span { font-size: 14px !important; width: 80%}
+    #twoImg { bottom: -15px; }
+    #threeImg { left: 0; }
+    #fourImg { bottom: 25px; left: 40px; }
+    #fiveImg {left: 50%; }
+    .slier_promo{ width: 85%; }
+    .itemPromo{ height: 340px; }
+    .itemPromo h2{ font-size: 48px !important; }
+    .phone { margin-left: 95px; margin-top: -25px; }
+}
+@media (max-width: 800px) and (min-width: 768px){
+    #fourImg { left: 20px; }
+}
+@media (max-width: 767px) and (min-width: 576px) {
+    #fp-nav.fp-right{ right: 0; }
+    .menu i{ display: block; float: right; margin-top: 4px;}
+    .menu ul { display: none; }
+    .sm-menu ul { font-size: 13px; text-align: center; }
+    .logo_header{ width: 90px; }
+    .logo_text{ width: 165px; }
+    .main_headline { font-size: 48px; }
+    .decs_headline { font-size: 19px; }
+    .group_btn { width: 350px; }
+    .scroll_icon{ width: 70px; }
+    .title_slide { font-size: 23px !important; }
+    #section-2 .title_slide { margin: 55px auto 5px !important; line-height: 1.1 !important; }
+    .videoItem iframe { height: 270px; }
+    .itemFeature img { width: 210px !important; }
+    #section-3 .slick-prev { top: 120px !important; }
+    #section-3 .slick-next { top: 175px !important; }
+    #section-4 .title_slide { margin-top: 0 !important; }
+    .itemImg img { width: 170px !important; }
+    .itemImg span { font-size: 13px !important; width: 80%}
+    #oneImg { top: -30px; }
+    #twoImg { bottom: 0; left: -60px; }
+    #threeImg { left: -40px; top: -30px; }
+    #fourImg { bottom: 38px; left: -20px; }
+    #fiveImg {left: 0; top: -30px; }
+    .slier_promo{ width: 85%; }
+    .itemPromo{ height: 320px; }
+    .itemPromo h2{ font-size: 38px !important; }
+    #section-5 .slick-prev { left: -50px; }
+    .sin_img{ background: none; margin: -20px auto; }
+    .phone { margin-left: 95px; margin-top: -25px; }
+}
+@media (max-width: 576px) and (min-width: 320px) {
+    #fp-nav.fp-right{ right: 0; }
+    .menu i{ display: block; float: right; margin-top: -3px; }
+    .menu ul { display: none; }
+    .sm-menu ul { display: none; }
+    .xs-menu ul { font-size: 16px; text-align: center; }
+    .logo_header{ width: 73px; }
+    .logo_text{ width: 145px; }
+    .main_headline { font-size: 30px; }
+    .decs_headline { font-size: 15px; width: 90%; margin: 0 auto; }
+    .group_btn { width: 250px; margin: 20px auto 0 }
+    .scroll_icon{ display: none; }
+    .title_slide { font-size: 18px !important; }
+    #section-2 .title_slide { margin: 20px auto 10px; line-height: 1.1 !important; }
+    .videoItem iframe { height: 220px; }
+    .itemFeature img { width: 210px !important; margin: -5px auto; float: right; }
+    #section-3 .title_slide { margin-top: 25px; margin-bottom: -10px; padding-left: 0; }
+    #section-3 .slick-prev { display: none !important; }
+    #section-3 .slick-next { display: none !important; }
+    #section-4 .title_slide { margin-top: 0 !important; text-align: center; }
+    .sin_img .listImg { height: auto; width: auto; }
+    .sin_img .slick-dots { height: auto; bottom: auto; }
+    .sin_img li { width: auto; height: 250px; }
+    #section-4 .slick-prev { left: -45px; width: 40px; height: 40px; }
+    #section-4 .slick-next { right: -40px; width: 40px; height: 40px; }
+    #section-4 .slick-prev:before { width: 25px; content: url(../img/prev_btn.png); }
+    #section-4 .slick-next:before { width: 25px; content: url(../img/next_btn.png); }
+    .itemImg img { width: 230px !important; margin: 0 auto; }
+    .itemImg span { font-size: 15px !important; width: 80%; margin: -30px auto; }
+    .itemImg div { position: static; }
+    #oneImg, #twoImg, #threeImg, #fourImg, #fiveImg  { position: static; }
+    .slier_promo{ width: 100%; }
+    .itemPromo{ height: 230px; }
+    .itemPromo h2{ font-size: 18px !important; width: 90% }
+    #section-5 .slick-prev { left: -50px; }
+    #section-5 .slick-prev { display: none !important; }
+    #section-5 .slick-next { display: none !important; }
+    .sin_img{ background: none; margin: -20px auto; }
+    .artrange { width: 150px; margin: 0 auto; }
+    .slider_video{ width: 100%; margin-bottom: 0; }
+    #fp-nav { display: none; }
+    .nameFeature{
+        position: static;
+        font-size: 20px;
+        text-align: center;
+        width: 100%;
+        height: 40px;
+        margin-top: 20px;
+        margin-bottom: -20px;
+        display: block;
+    }
+
+    #section-6 { background-position: 80% 0; }
+    #section-6 .title_slide { font-size: 28px; width: 270px; }
+    .subtitle_slide { font-size: 15px; text-align: center; }
+    .phone { margin-left: 75px; margin-top: -20px; }
+}
